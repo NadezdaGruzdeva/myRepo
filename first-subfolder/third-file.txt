@@ -1,1 +1,2 @@
 Third-file
+Also changes made in the feature branch
